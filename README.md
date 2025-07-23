@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=007ACC&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Siddharth+Satpute;Aspiring+Full+Stack+Developer;Computer+Science+Student+at+MIT+Pune" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1f2937&height=120&section=header&text=Hi%20👋%2C%20I'm%20Siddharth%20Satpute&fontSize=32&fontColor=ffffff&fontAlign=50&fontAlignY=50" />
 </p>
 
 <p align="center">
