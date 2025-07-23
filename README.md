@@ -53,10 +53,16 @@ A full-stack listing platform using **Node.js**, **Express**, and **MongoDB**, f
 
 ---
 
-## 📊 GitHub Stats:
+### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SatputeSB&show_icons=true&count_private=true&theme=tokyonight) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SatputeSB&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddharth1693&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharth1693&theme=tokyonight&hide_border=false" width="48%" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth1693&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
+</p>
 ---
 
 ### 📫 Contact Me
