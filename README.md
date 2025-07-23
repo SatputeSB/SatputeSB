@@ -53,18 +53,12 @@ A full-stack listing platform using **Node.js**, **Express**, and **MongoDB**, f
 
 ---
 
-<h2>📊 GitHub Stats:</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SiddharthSatpute&show_icons=true&theme=react&hide_border=true&count_private=true&custom_title=Siddharth%20Satpute's%20GitHub%20Stats" width="400"/>
-
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthSatpute&layout=compact&langs_count=6&theme=react&hide_border=true&custom_title=Most%20Used%20Languages" width="400"/>
-
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SiddharthSatpute&show_icons=true&theme=react&hide_border=true&count_private=true&custom_title=Siddharth%20Satpute's%20GitHub%20Stats&card_width=450" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthSatpute&layout=compact&langs_count=6&theme=react&hide_border=true&card_width=450" height="200"/>
+</p>
 ---
 
 ### 📫 Contact Me
