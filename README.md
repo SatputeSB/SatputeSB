@@ -66,7 +66,7 @@ A full-stack listing platform using **Node.js**, **Express**, and **MongoDB**, f
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SatputeSB&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SatputeSB&show_icons=true&theme=tokyonight&hide_border=false" width="52%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatputeSB&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
 </p>
 
