@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0A66C2,EAEAEA&height=180&section=header&text=Hi%20👋%2C%20I'm%20Siddharth%20Satpute&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=65" />
-</p>
+<h1 align="center">Hi 👋, I'm Siddharth Satpute</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&width=800&lines=Aspiring+Full+Stack+Developer;Computer+Science+Student+at+MIT+ADT+University,+Pune" />
