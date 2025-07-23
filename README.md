@@ -1,5 +1,7 @@
+<h1 align="center">Hi 👋, I'm Siddharth Satpute</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=200&section=header&text=Hi%20👋%2C%20I'm%20Siddharth%20Satpute&fontSize=40&fontColor=ffffff" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=800&color=0A66C2&center=true&width=800&lines=Aspiring+Full+Stack+Developer;Computer+Science+Student+at+MIT+Pune" />
 </p>
 
 <p align="center">
