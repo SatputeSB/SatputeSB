@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&width=800&lines=Aspiring+Full+Stack+Developer;Computer+Science+Student+at+MIT+ADT+University,+Pune" />
 </p>
-
 ---
 
 🌱 I'm currently pursuing B.Tech in Computer Science & Engineering from MIT ADT University, Pune.  
