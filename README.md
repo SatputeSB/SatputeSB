@@ -77,6 +77,34 @@ A full-stack listing platform using **Node.js**, **Express**, and **MongoDB**, f
 
 ---
 
+## 🎯 Current Focus Areas
+
+```mermaid
+graph TD
+    A[Siddharth's Journey] --> B[Frontend Mastery]
+    A --> C[Backend Development]
+    A --> D[Problem Solving]
+    A --> E[DevOps & Tools]
+
+    B --> B1[Advanced React]
+    B --> B2[UI/UX Design]
+    B --> B3[Performance Optimization]
+
+    C --> C1[API Design]
+    C --> C2[Database Optimization]
+    C --> C3[Microservices]
+
+    D --> D1[Competitive Programming]
+    D --> D2[Data Structures]
+    D --> D3[Algorithms]
+
+    E --> E1[System Design]
+    E --> E2[Cloud Technologies]
+    E --> E3[Real-time APIs]
+
+
+---
+
 ### 📫 Contact Me
 
 - 📧 Email: siddharthsatpute03@gmail.com  
