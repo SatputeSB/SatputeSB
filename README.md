@@ -53,11 +53,17 @@ A full-stack listing platform using **Node.js**, **Express**, and **MongoDB**, f
 
 ---
 
-## 📊 GitHub Stats:
+<h2>📊 GitHub Stats:</h2>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SatputeSB&show_icons=true&count_private=true&theme=tokyonight)
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SatputeSB&layout=compact&theme=tokyonight)
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SiddharthSatpute&show_icons=true&theme=react&hide_border=true&count_private=true&custom_title=Siddharth%20Satpute's%20GitHub%20Stats" width="400"/>
+
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthSatpute&layout=compact&langs_count=6&theme=react&hide_border=true&custom_title=Most%20Used%20Languages" width="400"/>
+
+</div>
 
 ---
 
