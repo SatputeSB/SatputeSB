@@ -55,10 +55,14 @@ A full-stack listing platform using **Node.js**, **Express**, and **MongoDB**, f
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SiddharthSatpute&show_icons=true&theme=react&hide_border=true&count_private=true&custom_title=Siddharth%20Satpute's%20GitHub%20Stats&card_width=450" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthSatpute&layout=compact&langs_count=6&theme=react&hide_border=true&card_width=450" height="200"/>
-</p>
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=SiddharthSatpute&show_icons=true&theme=github_dark&hide=stars,commits,issues&count_private=true" width="460" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthSatpute&layout=compact&theme=github_dark&hide_progress=true" width="460" />
+
+</div>
+
 ---
 
 ### 📫 Contact Me
