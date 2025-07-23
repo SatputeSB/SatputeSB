@@ -39,28 +39,19 @@
 
 ---
 
-### 🌟 Featured Projects
+### 🚀 Featured Projects
 
-#### 🧵 3D Apparel Customization  
-> React + Three.js + Tailwind CSS  
-- 🔁 Real-time 3D rendering  
-- 🎨 Custom textures with AI  
-- 📦 Fully interactive product editor  
-<p>
-  <img src="https://github.com/siddharth1693/3d-apparel-demo/assets/your-gif.gif" height="150" />
-</p>
+#### 🧵 3D Apparel Customization Website
+Interactive T-shirt customizer built using **React**, **Three.js**, and **Tailwind CSS**. Includes:
+- Real-time 3D rendering
+- AI-generated textures
+- Logo and color customization
 
----
-
-#### 🏠 Hostel & PG Finder Web App  
-> MERN Stack + Auth + Admin Panel  
-- 🔍 Dynamic filters and search  
-- 🔐 User authentication with sessions  
-- 🧾 Admin dashboard for property listings  
-<p>
-  <img src="https://github.com/siddharth1693/pg-finder-demo/assets/your-gif2.gif" height="150" />
-</p>
-
+#### 🏠 Hostel & PG Finder Web App
+A full-stack listing platform using **Node.js**, **Express**, and **MongoDB**, featuring:
+- Dynamic search filters
+- User authentication
+- Admin listing upload dashboard
 ---
 
 ### 📜 Certifications
