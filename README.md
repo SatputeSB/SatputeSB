@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Siddharth Satpute</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=200&section=header&text=Hi%20👋%2C%20I'm%20Siddharth%20Satpute&fontSize=40&fontColor=ffffff" />
+</p>
+
 <h3 align="center">Aspiring Full Stack Developer | Computer Science Student at MIT Pune</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F97316&center=true&width=500&lines=B.Tech+in+Computer+Science+%26+Engineering;Building+web+projects+daily;Learning+MERN+stack;Focusing+on+backend+%26+real-world+problem+solving" />
+</p>
 
 ---
 
