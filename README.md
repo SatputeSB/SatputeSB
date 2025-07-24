@@ -6,7 +6,6 @@
 
 ---
 
-🌱 I'm currently pursuing B.Tech in Computer Science & Engineering from MIT ADT University, Pune.  
 💡 I enjoy building web projects and continuously learning modern technologies.  
 🧠 Currently learning full-stack web development with a focus on the MERN stack.  
 🎯 Actively sharpening my skills in backend development and real-world problem solving.
